@@ -9,5 +9,6 @@ namespace Ex32
         abstract public float GetSurface(); //面積を取得する
         abstract public float GetCircumference(); //周囲の長さを取得する
         abstract public float GetBounds(out float width, out float height);
+        //先生の見ながらやりました
     }
 }

@@ -31,6 +31,7 @@ namespace Ex32
             width = this.width;
             height = this.height;
             return width;
+            //先生の見ながらやりました
         }
     }
 }

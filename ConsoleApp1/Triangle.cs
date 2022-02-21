@@ -30,7 +30,7 @@ namespace Ex32
             var cos = (length0 * length0 + length2 * length2 - length1 * length1) / (2 * length0 * length2);
             height = length2 * MathF.Sqrt(1 - cos * cos);
             return width;
-            
+            //先生の見ながらやりました
         }
     }
 
