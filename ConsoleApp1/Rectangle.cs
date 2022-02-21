@@ -8,7 +8,7 @@ namespace Ex32
     {
         readonly public float width;
         readonly public float height;
-        public float diagonal;
+       
         public Rectangle(float width = 0, float height = 0)
         {
             this.width = width;
