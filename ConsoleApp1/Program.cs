@@ -21,7 +21,6 @@ namespace Ex32
                 Console.WriteLine($"surfacesの入る大きさの幅は{width}、高さ{height}");
                
             }
+            //先生の見ながらやりました
         }
-    
-    }
 }
